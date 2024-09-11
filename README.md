@@ -27,7 +27,7 @@ The only thing required is obtaining an Imgur client ID (completely free and ver
 
 ## Credits
 
-Completely programmed by me, it works thanks to the APIs of [Imgur](https://apidocs.imgur.com), [vzge.me](https://vzge.me), and [Minecraft tools](https://minecraft.tools).
+Completely programmed by me, it works thanks to the APIs of [Imgur](https://apidocs.imgur.com), [vzge.me](https://vzge.me), and [Minecraft Tools](https://minecraft.tools).
 
 ## Images
 

@@ -31,5 +31,5 @@ Completely programmed by me, it works thanks to the APIs of [Imgur](https://apid
 
 ## Images
 
-![image](https://i.imgur.com/dZLvT2j.png)
+![image](https://i.imgur.com/KlYuQtM.png)
 ![image](https://i.imgur.com/zKD7Efo.png)  
